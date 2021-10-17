@@ -32,7 +32,7 @@ Skills! Or rather, 5 key competencies that stand out for me, when it comes to UX
 
 ## So what?
 
-Well, in the following 5 short and crisp posts I will share with you my connection to the above areas of expertise... I am not saying that I am an expert in any of those areas. This is just to share with you where I am on the journey regarding those areas. Also I am afraid I can be quite preachy so if you might feel overwhelmed then I apologize for that... I am doing that with a good hope that we all learn something today...
+Well, in **the following 5 short and crisp posts I will share with you my connection to the above areas of expertise**... Well, I am not saying that I am an expert so to say in any of those. This is just to share with you where I am on the journey regarding those areas. Also I am afraid I can be quite preachy so if you might feel overwhelmed then I apologize for that... I am doing that with a good hope that we all learn something today...
 
 You might use the below link to navigate to one of the posts or hit the links above to go to a specific skill.
 
