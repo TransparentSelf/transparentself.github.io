@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Getting Started"
-author: "Paul Le"
+title: "Skill #1"
+author: "Aron"
 categories: journal
 tags: [documentation,sample]
 image: forest.jpg
