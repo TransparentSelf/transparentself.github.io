@@ -4,4 +4,6 @@ title: Contact
 permalink: /contact
 ---
 
-If you are having any problems, any questions or suggestions, feel free to [tweet at me](https://twitter.com/intent/tweet?text=%40paululele), or [file a GitHub issue](https://github.com/lenpaul/lagrange/issues/new)
+Reach out to me in your preferred social platform. 
+
+![Pointing Arrow](https://github.com/aronuxui/aronuxui.github.io/blob/gh-pages/assets/img/socialarrow.jpg "Pointing Arrow")
