@@ -4,7 +4,7 @@ title: "What's all about UX/UI?"
 author: "Aron"
 categories: journal
 tags: [documentation,sample]
-image: climbing.jpg
+image: uxui2.png
 ---
 
 Hi, my name is Aron. This is my minimalist UX/UI "portfolio" designed to lend me a dreamjob in UX design. The purpose of the whole page is to provide you with a simple, clean, content-focused "portfolio" for an entry level UX/UI position. But before we do that you might be asking yourself. 
