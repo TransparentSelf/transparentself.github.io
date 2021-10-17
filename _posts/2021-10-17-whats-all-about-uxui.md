@@ -24,14 +24,16 @@ And so why am I keep putting the portfolio in ""? Okay this is not strictly a po
 ## If not a portfolio, then what?
 
 Skills! Or rather, 5 key competencies that stand out for me, when it comes to UX design. And these 5 skills are, not in a particular order:
-- [Research and Analytics](https://aronuxui.github.io/skill-1)
-- [Teamwork](https://aronuxui.github.io/skill-2)
-- [Design](https://aronuxui.github.io/skill-3)
-- [Agile](https://aronuxui.github.io/skill-4)
-- [Understanding Current Trends](https://aronuxui.github.io/skill-5)
+- [Research and Analytics](https://aronuxui.github.io/research-and-analytics)
+- [Teamwork](https://aronuxui.github.io/teamwork)
+- [Design](https://aronuxui.github.io/design)
+- [Agile](https://aronuxui.github.io/agile)
+- [Understanding Current Trends](https://aronuxui.github.io/understanding-trends)
 
 ## So what?
 
-Well, in the following 5 short and crisp posts I will share with you my connection to the above areas of expertise... I am not saying that I am an expert in any of those areas. This is just to share with you my experience. Also I am afraid I can be quite preachy so if you might feel overwhelmed then I apologize for that... I am doing this with a good hope that we all learn something today...
+Well, in the following 5 short and crisp posts I will share with you my connection to the above areas of expertise... I am not saying that I am an expert in any of those areas. This is just to share with you where I am on the journey regarding those areas. Also I am afraid I can be quite preachy so if you might feel overwhelmed then I apologize for that... I am doing that with a good hope that we all learn something today...
 
 You might use the below link to navigate to one of the posts or hit the links above to go to a specific skill.
+
+Link to the [next post](https://aronuxui.github.io/research-and-analytics)
