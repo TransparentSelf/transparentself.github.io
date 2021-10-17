@@ -32,6 +32,6 @@ Skills! 5 key competencies struck out for me, when it comes to UX design. And th
 
 ## So what?
 
-In the following 5 short and crisp posts I will detail my connection through those areas of expertise...
+In the following 5 short and crisp posts I will detail my connection to those areas of expertise...
 
-You can ran through these using buttons below. Or you can hit the links above in 
+You can ran through these using buttons below. Or you can hit the links above to the specific skills.
