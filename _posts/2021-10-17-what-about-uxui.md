@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "What about the Portfolio?"
+title: "What about UX/UI?"
 author: "Aron"
 categories: journal
 tags: [documentation,sample]
