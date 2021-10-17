@@ -13,9 +13,9 @@ I think all the rest of the skills are fail to operate efficiently unless they a
 
 I believe you can not avoid the fact, that you as a UX/UI professional have to know the Zeitgeist.
 
-There is a great TED talk on why most startups succeed or fail for that matter. **Spoiler alert** it's timing. 
+There is a great [TED talk](https://www.youtube.com/watch?v=bNpx7gpSqbY) on why most startups succeed or fail for that matter. 
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=bNpx7gpSqbY" frameborder="0" allowfullscreen></iframe>
+**Spoiler alert** It's timing. 
 
 Maybe I am using the startup example's a bit too much, but in my opinion this is a great analogy for product design.
 
