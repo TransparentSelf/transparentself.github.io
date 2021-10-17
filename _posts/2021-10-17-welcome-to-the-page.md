@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Welcome to Lagrange!"
-author: "Paul Le"
+title: "Welcome to the Page!"
+author: "Aron"
 categories: journal
 tags: [documentation,sample]
 image: mountains.jpg
