@@ -28,7 +28,7 @@ Skills! Or rather, 5 key competencies that stand out for me, when it comes to UX
 - [Teamwork](https://aronuxui.github.io/skill-2)
 - [Design](https://aronuxui.github.io/skill-3)
 - [Agile](https://aronuxui.github.io/skill-4)
-- [Understanding current Trends](https://aronuxui.github.io/skill-5)
+- [Understanding Current Trends](https://aronuxui.github.io/skill-5)
 
 ## So what?
 
