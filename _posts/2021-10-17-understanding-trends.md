@@ -24,3 +24,5 @@ You have to be able to "listen to the trends" closely but also to act on them so
 If you change every single icon in the header for the name of usability that will for sure cause tremendous headache to your costumers. Not to mention the great deal of time that it takes to learn the new icon's meaning. And remember it's a cruel world out there. Unless you are Google (and maybe even then), you have fierce competition. And if your costumers don't like your product they may tap away in the blink of an eye. 
 
 I believe **those people and products win which can consciously and steadily innovate** in these extremely interesting but on the other hand volatile, uncertain, complex and ambiguous times.
+
+This is the last post of the series. Thank you for coming all the way 🚀
