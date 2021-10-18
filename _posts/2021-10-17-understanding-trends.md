@@ -7,7 +7,7 @@ tags: [documentation,sample]
 image: glassmorphism.png
 ---
 
-Alright, alright, alright. Sorry. I know... Understanding current trends is not exactly a *skill*. It's more like knowledge.
+Alright, alright, alright. Sorry. I know... Understanding current trends is not exactly a *skill*. It's more like *knowledge*.
 
 I think all the rest of the skills are fail to operate efficiently unless they are applied in the right *context*.
 
