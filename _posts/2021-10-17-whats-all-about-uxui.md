@@ -15,11 +15,11 @@ Why the urge is to lend a job in UX design? I believe it encompasses all the dif
 
 ## Why you should hire me?
 
-Because I am an extremely motivated young professional eager find my niche, grow and give value to the greater community.
+Because I am an extremely motivated young professional eager to find my niche, grow and give value to the greater community.
 
 ## What about the "portfolio"?
 
-And so why am I keep putting the portfolio in ""? Okay this is not strictly a portfolio. It's more like a showcase of skills, knowledge and understanding I had amassed in my short years as a professional. This is to provide you with a glimpse of my understanding linked to the field of UX design.  
+And so why am I keep putting the portfolio in ""? Okay, this is not strictly a portfolio. It's more like a showcase of skills, knowledge and understanding I had amassed in my short years as a professional. This is to provide you with a glimpse of my understanding linked to the field of UX design.  
 
 ## If not a portfolio, then what?
 
