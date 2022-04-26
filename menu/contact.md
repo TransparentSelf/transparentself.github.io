@@ -4,4 +4,4 @@ title: Contact
 permalink: /contact
 ---
 
-Find me on socials.
+Reach out to me on socials 👇
