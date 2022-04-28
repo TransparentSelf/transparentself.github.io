@@ -6,5 +6,5 @@ permalink: /about
 
 Online Product lover looking for the next challenge.
 
-![CV0](/assets/img/CV0.png)
+![UXUI CV 2022](/assets/img/UXUI CV 2022.png)
 
