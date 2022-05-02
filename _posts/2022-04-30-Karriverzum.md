@@ -17,13 +17,24 @@ Levente Lang - Full Stack Developer
 ```
 
 ## Table Of Contents
-[Executive Summary](https://github.com/aronuxui/aronuxui.github.io/blob/gh-pages/_posts/2022-04-30-Karriverzum.md#executive-summary)
-[Core Problem](https://github.com/aronuxui/aronuxui.github.io/blob/gh-pages/_posts/2022-04-30-Karriverzum.md#core-problem)
-[Solution](https://github.com/aronuxui/aronuxui.github.io/blob/gh-pages/_posts/2022-04-30-Karriverzum.md#solution)
-[Initial Research](https://github.com/aronuxui/aronuxui.github.io/blob/gh-pages/_posts/2022-04-30-Karriverzum.md#initial-research)
-[Market Research](https://github.com/aronuxui/aronuxui.github.io/blob/gh-pages/_posts/2022-04-30-Karriverzum.md#market-research)
-[Pretotyping](https://github.com/aronuxui/aronuxui.github.io/blob/gh-pages/_posts/2022-04-30-Karriverzum.md#pretotyping)
-[Product Design](https://github.com/aronuxui/aronuxui.github.io/blob/gh-pages/_posts/2022-04-30-Karriverzum.md#product-design)
+1. [Executive Summary](https://github.com/aronuxui/aronuxui.github.io/blob/gh-pages/_posts/2022-04-30-Karriverzum.md#executive-summary)
+3. [Core Problem](https://github.com/aronuxui/aronuxui.github.io/blob/gh-pages/_posts/2022-04-30-Karriverzum.md#core-problem)
+4. [Solution](https://github.com/aronuxui/aronuxui.github.io/blob/gh-pages/_posts/2022-04-30-Karriverzum.md#solution)
+5. [Initial Research](https://github.com/aronuxui/aronuxui.github.io/blob/gh-pages/_posts/2022-04-30-Karriverzum.md#initial-research)
+7. [Market Research](https://github.com/aronuxui/aronuxui.github.io/blob/gh-pages/_posts/2022-04-30-Karriverzum.md#market-research)
+  7. [Secondary Research](https://github.com/aronuxui/aronuxui.github.io/blob/gh-pages/_posts/2022-04-30-Karriverzum.md#secondary-research)
+  7. [User Interviews](https://github.com/aronuxui/aronuxui.github.io/blob/gh-pages/_posts/2022-04-30-Karriverzum.md#user-interviews)
+  8. [Expert Interviews](https://github.com/aronuxui/aronuxui.github.io/blob/gh-pages/_posts/2022-04-30-Karriverzum.md#expert-interviews)
+8. [Pretotyping](https://github.com/aronuxui/aronuxui.github.io/blob/gh-pages/_posts/2022-04-30-Karriverzum.md#pretotyping)
+  7. [High Level Sitemap](https://github.com/aronuxui/aronuxui.github.io/blob/gh-pages/_posts/2022-04-30-Karriverzum.md#high-level-sitemap)
+  7. [Sketches](https://github.com/aronuxui/aronuxui.github.io/blob/gh-pages/_posts/2022-04-30-Karriverzum.md#sketches)
+  8. [Design and Branding](https://github.com/aronuxui/aronuxui.github.io/blob/gh-pages/_posts/2022-04-30-Karriverzum.md#design-and-branding)
+  9. [Pretotype](https://github.com/aronuxui/aronuxui.github.io/blob/gh-pages/_posts/2022-04-30-Karriverzum.md#pretotype)
+  7. [Testing](https://github.com/aronuxui/aronuxui.github.io/blob/gh-pages/_posts/2022-04-30-Karriverzum.md#sitemap)
+1. [Product Design](https://github.com/aronuxui/aronuxui.github.io/blob/gh-pages/_posts/2022-04-30-Karriverzum.md#product-design)
+  5. [Design Inspiration](https://github.com/aronuxui/aronuxui.github.io/blob/gh-pages/_posts/2022-04-30-Karriverzum.md#design-inspiration)
+  6. [Moodboard](https://github.com/aronuxui/aronuxui.github.io/blob/gh-pages/_posts/2022-04-30-Karriverzum.md#moodboard)
+  7. [Design Mockup](https://github.com/aronuxui/aronuxui.github.io/blob/gh-pages/_posts/2022-04-30-Karriverzum.md#design-mockup)
 
 > "A compass in the world of work"
 
@@ -69,7 +80,7 @@ Most of the experts interviewed confirmed that there is a strong need for career
 # Pretotyping
 So we set out to build a pretotype to test our assumptions.
 
-## Sitemap
+## High Level Sitemap
 [High level sitemap_HU](https://docs.google.com/document/d/1_GW0IX4p2mo66iBw9duW8yPAi8yErm21-2MgmNNQiu0/edit?usp=sharing)
 
 ## Sketches
