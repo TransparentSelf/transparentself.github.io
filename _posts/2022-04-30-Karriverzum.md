@@ -17,24 +17,25 @@ Levente Lang - Full Stack Developer
 ```
 
 ## Table Of Contents
+
 1. [Executive Summary](https://github.com/aronuxui/aronuxui.github.io/blob/gh-pages/_posts/2022-04-30-Karriverzum.md#executive-summary)
 3. [Core Problem](https://github.com/aronuxui/aronuxui.github.io/blob/gh-pages/_posts/2022-04-30-Karriverzum.md#core-problem)
 4. [Solution](https://github.com/aronuxui/aronuxui.github.io/blob/gh-pages/_posts/2022-04-30-Karriverzum.md#solution)
 5. [Initial Research](https://github.com/aronuxui/aronuxui.github.io/blob/gh-pages/_posts/2022-04-30-Karriverzum.md#initial-research)
 7. [Market Research](https://github.com/aronuxui/aronuxui.github.io/blob/gh-pages/_posts/2022-04-30-Karriverzum.md#market-research)
-  7. [Secondary Research](https://github.com/aronuxui/aronuxui.github.io/blob/gh-pages/_posts/2022-04-30-Karriverzum.md#secondary-research)
-  7. [User Interviews](https://github.com/aronuxui/aronuxui.github.io/blob/gh-pages/_posts/2022-04-30-Karriverzum.md#user-interviews)
-  8. [Expert Interviews](https://github.com/aronuxui/aronuxui.github.io/blob/gh-pages/_posts/2022-04-30-Karriverzum.md#expert-interviews)
+    - [Secondary Research](https://github.com/aronuxui/aronuxui.github.io/blob/gh-pages/_posts/2022-04-30-Karriverzum.md#secondary-research)
+    - [User Interviews](https://github.com/aronuxui/aronuxui.github.io/blob/gh-pages/_posts/2022-04-30-Karriverzum.md#user-interviews)
+    - [Expert Interviews](https://github.com/aronuxui/aronuxui.github.io/blob/gh-pages/_posts/2022-04-30-Karriverzum.md#expert-interviews)
 8. [Pretotyping](https://github.com/aronuxui/aronuxui.github.io/blob/gh-pages/_posts/2022-04-30-Karriverzum.md#pretotyping)
-  7. [High Level Sitemap](https://github.com/aronuxui/aronuxui.github.io/blob/gh-pages/_posts/2022-04-30-Karriverzum.md#high-level-sitemap)
-  7. [Sketches](https://github.com/aronuxui/aronuxui.github.io/blob/gh-pages/_posts/2022-04-30-Karriverzum.md#sketches)
-  8. [Design and Branding](https://github.com/aronuxui/aronuxui.github.io/blob/gh-pages/_posts/2022-04-30-Karriverzum.md#design-and-branding)
-  9. [Pretotype](https://github.com/aronuxui/aronuxui.github.io/blob/gh-pages/_posts/2022-04-30-Karriverzum.md#pretotype)
-  7. [Testing](https://github.com/aronuxui/aronuxui.github.io/blob/gh-pages/_posts/2022-04-30-Karriverzum.md#sitemap)
+    - [High Level Sitemap](https://github.com/aronuxui/aronuxui.github.io/blob/gh-pages/_posts/2022-04-30-Karriverzum.md#high-level-sitemap)
+    - [Sketches](https://github.com/aronuxui/aronuxui.github.io/blob/gh-pages/_posts/2022-04-30-Karriverzum.md#sketches)
+    - [Design and Branding](https://github.com/aronuxui/aronuxui.github.io/blob/gh-pages/_posts/2022-04-30-Karriverzum.md#design-and-branding)
+    - [Pretotype](https://github.com/aronuxui/aronuxui.github.io/blob/gh-pages/_posts/2022-04-30-Karriverzum.md#pretotype)
+    - [Testing](https://github.com/aronuxui/aronuxui.github.io/blob/gh-pages/_posts/2022-04-30-Karriverzum.md#sitemap)
 1. [Product Design](https://github.com/aronuxui/aronuxui.github.io/blob/gh-pages/_posts/2022-04-30-Karriverzum.md#product-design)
-  5. [Design Inspiration](https://github.com/aronuxui/aronuxui.github.io/blob/gh-pages/_posts/2022-04-30-Karriverzum.md#design-inspiration)
-  6. [Moodboard](https://github.com/aronuxui/aronuxui.github.io/blob/gh-pages/_posts/2022-04-30-Karriverzum.md#moodboard)
-  7. [Design Mockup](https://github.com/aronuxui/aronuxui.github.io/blob/gh-pages/_posts/2022-04-30-Karriverzum.md#design-mockup)
+    - [Design Inspiration](https://github.com/aronuxui/aronuxui.github.io/blob/gh-pages/_posts/2022-04-30-Karriverzum.md#design-inspiration)
+    - [Moodboard](https://github.com/aronuxui/aronuxui.github.io/blob/gh-pages/_posts/2022-04-30-Karriverzum.md#moodboard)
+    - [Design Mockup](https://github.com/aronuxui/aronuxui.github.io/blob/gh-pages/_posts/2022-04-30-Karriverzum.md#design-mockup)
 
 > "A compass in the world of work"
 
@@ -56,7 +57,7 @@ The initial research has proved that there is indeed a need for a solution. Ther
 
 # Market Research
 The market research has strengthened our previous view. There is a strong need for transparent future planning and not just in IT... As a secondary school director in one of our expert interviews had stated:
-> "We [teachers] are hesitant to give advice for young folks. The work they will do maybe don’t even exist today". 
+> "We [teachers] are hesitant to give advice for young folks. The work they will do maybe don’t even exist today."
 
 This sums up perfectly the fast changing market conditions.
 
@@ -95,7 +96,7 @@ The first sketches of the landing page.
 
 The first two touch points were skill development in Diablo II:
 
-![DiabloIISkillTree](/assets/img/DiabloIISkillTree.png)
+![DiabloIISkillTree](/assets/img/DiabloIISkillTree.jpeg)
 
 and a game where a spark shows the way in the dark:
 
