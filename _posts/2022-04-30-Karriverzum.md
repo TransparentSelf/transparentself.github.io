@@ -17,10 +17,13 @@ Levente Lang - Full Stack Developer
 ```
 
 ## Table Of Contents
-[Text](link)
-[Text](link)
-[Text](link)
-[Text](link)
+[Executive Summary](https://github.com/aronuxui/aronuxui.github.io/blob/gh-pages/_posts/2022-04-30-Karriverzum.md#executive-summary)
+[Core Problem](https://github.com/aronuxui/aronuxui.github.io/blob/gh-pages/_posts/2022-04-30-Karriverzum.md#core-problem)
+[Solution](https://github.com/aronuxui/aronuxui.github.io/blob/gh-pages/_posts/2022-04-30-Karriverzum.md#solution)
+[Initial Research](https://github.com/aronuxui/aronuxui.github.io/blob/gh-pages/_posts/2022-04-30-Karriverzum.md#initial-research)
+[Market Research](https://github.com/aronuxui/aronuxui.github.io/blob/gh-pages/_posts/2022-04-30-Karriverzum.md#market-research)
+[Pretotyping](https://github.com/aronuxui/aronuxui.github.io/blob/gh-pages/_posts/2022-04-30-Karriverzum.md#pretotyping)
+[Product Design](https://github.com/aronuxui/aronuxui.github.io/blob/gh-pages/_posts/2022-04-30-Karriverzum.md#product-design)
 
 > "A compass in the world of work"
 
