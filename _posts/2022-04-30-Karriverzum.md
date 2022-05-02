@@ -16,6 +16,8 @@ Mark Tumpek - Business Development
 Levente Lang - Full Stack Developer
 ```
 
+> "A compass in the world of work"
+
 ## Table Of Contents
 
 1. [Executive Summary](https://github.com/aronuxui/aronuxui.github.io/blob/gh-pages/_posts/2022-04-30-Karriverzum.md#executive-summary)
@@ -37,8 +39,6 @@ Levente Lang - Full Stack Developer
     - [Moodboard](https://github.com/aronuxui/aronuxui.github.io/blob/gh-pages/_posts/2022-04-30-Karriverzum.md#moodboard)
     - [Design Mockup](https://github.com/aronuxui/aronuxui.github.io/blob/gh-pages/_posts/2022-04-30-Karriverzum.md#design-mockup)
 
-> "A compass in the world of work"
-
 # Executive Summary
 A web platform for general IT career planning currently under development. Our first big hairy audacious goal is to provide **a live career map for IT university students and young IT professionals** where they can plan ahead their future in the world of IT.
 
@@ -57,7 +57,8 @@ The initial research has proved that there is indeed a need for a solution. Ther
 
 # Market Research
 The market research has strengthened our previous view. There is a strong need for transparent future planning and not just in IT... As a secondary school director in one of our expert interviews had stated:
-> "We [teachers] are hesitant to give advice for young folks. The work they will do maybe don’t even exist today."
+
+*"We [teachers] are hesitant to give advice for young folks. The work they will do maybe don’t even exist today."*
 
 This sums up perfectly the fast changing market conditions.
 
@@ -103,7 +104,7 @@ and a game where a spark shows the way in the dark:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/j2TmLrTl6gs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Pretotype
-Karriverzum’s first look:
+Karriverzum’s first look (if you click or tap anywhere on the page the links will light up in a flash):
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2F5eGASZat7L6T7sNebvcwrk%2FPrototype%3Fpage-id%3D0%253A1%26node-id%3D563%253A333%26viewport%3D241%252C48%252C0.03%26scaling%3Dscale-down%26starting-point-node-id%3D563%253A455" allowfullscreen></iframe>
 
 ## Testing
@@ -113,13 +114,13 @@ The initial testing showed very promising results. We tested the pretotype with 
 So we started doing the “real thing”!
 
 ## Design Inspiration
-[Universe design inspiration](https://docs.google.com/document/d/1qdTHH6WOPSSv75zGnjo5vsVAWGJ5SVYLFPh5mki1W5k/edit?usp=sharing)
+[Universe design inspiration collection](https://docs.google.com/document/d/1qdTHH6WOPSSv75zGnjo5vsVAWGJ5SVYLFPh5mki1W5k/edit?usp=sharing)
 
 ## Moodboard
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FmH9IM90EP7LDlWJnctfAmy%2FDesign%3Fnode-id%3D238%253A78" allowfullscreen></iframe>
 
 ## Design Mockup
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FmH9IM90EP7LDlWJnctfAmy%2FDesign%3Fpage-id%3D0%253A1%26node-id%3D206%253A469%26viewport%3D241%252C48%252C0.09%26scaling%3Dmin-zoom" allowfullscreen></iframe>
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FmH9IM90EP7LDlWJnctfAmy%2FDesign%3Fnode-id%3D206%253A469" allowfullscreen></iframe>
 
 ## Sitemap
 In progress...
