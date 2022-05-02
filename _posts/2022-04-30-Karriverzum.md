@@ -33,37 +33,48 @@ One of our founder Aron is just going through his 3rd big career shift at the mo
 # Solution
 The core problem sparked Aron and Mark's interest and they begin to work on a solution which would enable to plan one's course of work in short and mid term. *How can I get into a different IT career road as the one I am currently on? How can I get into the IT job of my dreams if I am currently doing IT x? How can I smartly plan ahead my future and escape the IT path that I am currently on if it's dying?* These questions has fused us to be a "A compass in the world of work".
 
+[Credo](https://docs.google.com/document/d/12CB_e5r6hUbVsgMyE_-K_08FdyrmzJawYyKaXsVSdwI/edit?usp=sharing)
+
 # Initial Research
 The initial research has proved that there is indeed a need for a solution. There are currently platforms, individuals and companies who serve the career counsellors role but **none of the players provide you with a view on the current IT market conditions in terms of a transparent future planning.**
-[Text](link)
+
+[High level competitor analysis_HU](https://docs.google.com/document/d/1acBPj1dUh2ZHESCyJr_CG767Te2dy7fh3eT6Y7XVj2o/edit?usp=sharing)
 
 # Market Research
 The market research has strengthened our previous view. There is a strong need for transparent future planning and not just in IT... As a secondary school director in one of our expert interviews had stated:
 > "We [teachers] are hesitant to give advice for young folks. The work they will do maybe don’t even exist today". 
+
 This sums up perfectly the fast changing market conditions.
-[Text](link)
+
+[Market research_FULL_HU](https://docs.google.com/document/d/1JPzQn8KolTrF_hTX1oqt7hnRoWmElPXv0pOBCi6qPfw/edit?usp=sharing)
 
 ## Secondary Research
-For our secondary research the best research contents are from the US and western EU. These may not be not as relevant for Hungary - where we wish to enter the market - however the research has proved our point that the "career concern" of gen Z is not exclusive to Hungary. 
-"A quote to encapsulate the research"
-[Text](link)
+For our secondary research the best research contents are from the US and western EU. These may not be not as relevant for Hungary - where we wish to enter the market - however the research has proved our point that the "career concern" of gen Z is not exclusive to Hungary. Or as the Pew Research Center promptly summarized it: [On the Cusp of Adulthood and Facing an Uncertain Future](https://www.pewresearch.org/social-trends/2020/05/14/on-the-cusp-of-adulthood-and-facing-an-uncertain-future-what-we-know-about-gen-z-so-far-2/)
+
+[Market research_FULL_HU](https://docs.google.com/document/d/1JPzQn8KolTrF_hTX1oqt7hnRoWmElPXv0pOBCi6qPfw/edit?usp=sharing)
 
 ## User Interviews
 When we asked university students - our main target group - **an overwhelming amount of them said that they are unsure what they will do once they have finished studying.** Most of the students are choosing universities based on broad interest - which is absolutely fine - but most are still lacking a career "end point" (or god forbid start point) upon graduation.
-[Text](link)
+
+[User interviews_HU](https://docs.google.com/document/d/1AVnQ09_-wY-R9FBRh0-oFRI1Ams8g4Dpig2bvfza4TQ/edit?usp=sharing)
 
 ## Expert Interviews
 Most of the experts interviewed confirmed that there is a strong need for career advice and planning. However some has also raised their concerns in the subject. One expert particularly - let's call him B cause he wished to stay anonim - has told us that there seems to be a great need for career counseling however young folks (university students, high school students and young professionals) do not wish to pay the price for it. B had started a B2C career counseling business years ago (he is a successful business trainer himself), but this hadn't turned out to be a fruitful business. I believe if we look behind this story we really can see that this seemingly empty "ocean" (in Hungary there is only a handful of successful career counsellors) of traditional career counseling is just waiting to be disrupted.
-[Text](link)
 
-# Initial Test
+[Market research_FULL_HU](https://docs.google.com/document/d/1JPzQn8KolTrF_hTX1oqt7hnRoWmElPXv0pOBCi6qPfw/edit?usp=sharing)
+
+# Pretotyping
 So we set out to build a pretotype to test our assumptions.
+
+## Sitemap
+[High level sitemap_HU](https://docs.google.com/document/d/1_GW0IX4p2mo66iBw9duW8yPAi8yErm21-2MgmNNQiu0/edit?usp=sharing)
 
 ## Sketches
 *What should be the layout of the website?*
 
 The first sketches of the landing page. 
-![Sketch1](/assets/img/sketch1.png)
+
+![LandingPageSketch](/assets/img/LandingPageSketch.png)
 
 ## Design and Branding
 *How should the product feel?*
@@ -74,26 +85,26 @@ The first two touch points were skill development in Diablo II:
 
 and a game where a spark shows the way in the dark:
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=j2TmLrTl6gs" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j2TmLrTl6gs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Pretotype
-The imagined product’s first look:
-[Karriverzum's pretotype](link)
+Karriverzum’s first look:
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2F5eGASZat7L6T7sNebvcwrk%2FPrototype%3Fpage-id%3D0%253A1%26node-id%3D563%253A333%26viewport%3D241%252C48%252C0.03%26scaling%3Dscale-down%26starting-point-node-id%3D563%253A455" allowfullscreen></iframe>
 
 ## Testing
-The initial testing showed very promising. We tested the pretotype with a handful of IT students and Levente - currently doing his master in computer programming - has liked the idea (and the challenge) so much that he joined us on board as our developer. :hands
+The initial testing showed very promising results. We tested the pretotype with a handful of IT students and Levente - currently doing his master in computer programming - has liked the idea (and the challenge) so much that he joined us on board as our developer. 🙌
 
 # Product Design
 So we started doing the “real thing”!
 
-## Moodboard
-[text](link)
-
 ## Design Inspiration
-[text](link)
+[Universe design inspiration](https://docs.google.com/document/d/1qdTHH6WOPSSv75zGnjo5vsVAWGJ5SVYLFPh5mki1W5k/edit?usp=sharing)
+
+## Moodboard
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FmH9IM90EP7LDlWJnctfAmy%2FDesign%3Fnode-id%3D238%253A78" allowfullscreen></iframe>
 
 ## Design Mockup
-[text](link)
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FmH9IM90EP7LDlWJnctfAmy%2FDesign%3Fpage-id%3D0%253A1%26node-id%3D206%253A469%26viewport%3D241%252C48%252C0.09%26scaling%3Dmin-zoom" allowfullscreen></iframe>
 
 ## Sitemap
 In progress...
