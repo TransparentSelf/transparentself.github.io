@@ -107,7 +107,7 @@ and a game where a spark shows the way in the dark:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/j2TmLrTl6gs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Pretotype
-Karriverzum’s first look (if you click or tap anywhere on the page the links will light up in a flash):
+Karriverzum’s first look. Click or tap anywhere on the page and the available interactions will light up in a flash:
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2F5eGASZat7L6T7sNebvcwrk%2FPrototype%3Fpage-id%3D0%253A1%26node-id%3D563%253A333%26viewport%3D241%252C48%252C0.03%26scaling%3Dscale-down%26starting-point-node-id%3D563%253A455" allowfullscreen></iframe>
 
 ### Testing
