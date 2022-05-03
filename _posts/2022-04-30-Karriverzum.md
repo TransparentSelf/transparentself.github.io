@@ -38,6 +38,7 @@ Levente Lang - Full Stack Developer
     - [Design Inspiration](https://aronuxui.github.io/Karriverzum#design-inspiration)
     - [Moodboard](https://aronuxui.github.io/Karriverzum#moodboard)
     - [Design Mockup](https://aronuxui.github.io/Karriverzum#design-mockup)
+    - [Sitemap](https://aronuxui.github.io/Karriverzum#Sitemap)
 
 
 # Executive Summary
@@ -126,7 +127,7 @@ So we started doing the “real thing”!
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FmH9IM90EP7LDlWJnctfAmy%2FDesign%3Fnode-id%3D206%253A469" allowfullscreen></iframe>
 
 ### Sitemap
-In progress...
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2F5eGASZat7L6T7sNebvcwrk%2FPrototype%3Fnode-id%3D652%253A379" allowfullscreen></iframe>
 
 ### Site Architecture
 In progress...
