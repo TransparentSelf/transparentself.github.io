@@ -46,15 +46,21 @@ A web platform for general IT career planning currently under development. Our f
 &nbsp;
 &nbsp;
 
+
 # Core Problem
 One of our founder Aron is just going through his 3rd big career shift at the moment. He is 27 years old. This maybe an extreme case but nonetheless this rapid career change is now more prevalent then ever. Aron was planning to leave human resources and start a career in product design. To begin with that ux design certainly seemed a great place to start. *But what is indeed UX Design? And where should an individual begin his journey with that?* Googling these questions only get you so far. The field of UX Design is not just new, but also a vast place with myriad of opportunities. *Should one work on information architecture? Or should one do UI Design? Or maybe should one become a UX expert, working solely with analytics?* These were some of the questions our founder had to answer. And the search for answers is a rocky road filled with highly contextual advices and blurry trajectories. There has to be a better way to plan smartly one of the most important aspect of one's life: work.
 
-#  
+\
+
 
 # Solution
 The core problem sparked Aron and Mark's interest and they begin to work on a solution which would enable to plan one's course of work in short and mid term. *How can I get into a different IT career road as the one I am currently on? How can I get into the IT job of my dreams if I am currently doing IT x? How can I smartly plan ahead my future and escape the IT path that I am currently on if it's dying?* These questions has fused us to be a "A compass in the world of work".
 
 [Credo](https://docs.google.com/document/d/12CB_e5r6hUbVsgMyE_-K_08FdyrmzJawYyKaXsVSdwI/edit?usp=sharing)
+
+<br />
+<br />
+
 
 # Initial Research
 The initial research has proved that there is indeed a need for a solution. There are currently platforms, individuals and companies who serve the career counsellors role but **none of the players provide you with a view on the current IT market conditions in terms of a transparent future planning.**
