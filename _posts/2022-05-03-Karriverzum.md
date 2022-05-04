@@ -43,7 +43,8 @@ Levente Lang - Full Stack Developer
 
 # Executive Summary
 A web platform for general IT career planning currently under development. Our first big hairy audacious goal is to provide **a live career map for IT university students and young IT professionals** where they can plan ahead their future in the world of IT.
-
+&nbsp;
+&nbsp;
 
 # Core Problem
 One of our founder Aron is just going through his 3rd big career shift at the moment. He is 27 years old. This maybe an extreme case but nonetheless this rapid career change is now more prevalent then ever. Aron was planning to leave human resources and start a career in product design. To begin with that ux design certainly seemed a great place to start. *But what is indeed UX Design? And where should an individual begin his journey with that?* Googling these questions only get you so far. The field of UX Design is not just new, but also a vast place with myriad of opportunities. *Should one work on information architecture? Or should one do UI Design? Or maybe should one become a UX expert, working solely with analytics?* These were some of the questions our founder had to answer. And the search for answers is a rocky road filled with highly contextual advices and blurry trajectories. There has to be a better way to plan smartly one of the most important aspect of one's life: work.
