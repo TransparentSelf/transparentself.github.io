@@ -16,9 +16,15 @@ Mark Tumpek - Business Development
 Levente Lang - Full Stack Developer
 ```
 
+<br />
+<br />
+
 > "A compass in the world of work"
 
-## Table Of Contents
+<br />
+<br />
+
+### Table Of Contents
 
 1. [Executive Summary](https://aronuxui.github.io/Karriverzum#executive-summary)
 3. [Core Problem](https://aronuxui.github.io/Karriverzum#core-problem)
@@ -40,20 +46,22 @@ Levente Lang - Full Stack Developer
     - [Design Mockup](https://aronuxui.github.io/Karriverzum#design-mockup)
     - [Sitemap](https://aronuxui.github.io/Karriverzum#Sitemap)
 
+<br />
+<br />
 
-# Executive Summary
+## Executive Summary
 A web platform for general IT career planning currently under development. Our first big hairy audacious goal is to provide **a live career map for IT university students and young IT professionals** where they can plan ahead their future in the world of IT.
-&nbsp;
-&nbsp;
 
+<br />
+<br />
 
-# Core Problem
+## Core Problem
 One of our founder Aron is just going through his 3rd big career shift at the moment. He is 27 years old. This maybe an extreme case but nonetheless this rapid career change is now more prevalent then ever. Aron was planning to leave human resources and start a career in product design. To begin with that ux design certainly seemed a great place to start. *But what is indeed UX Design? And where should an individual begin his journey with that?* Googling these questions only get you so far. The field of UX Design is not just new, but also a vast place with myriad of opportunities. *Should one work on information architecture? Or should one do UI Design? Or maybe should one become a UX expert, working solely with analytics?* These were some of the questions our founder had to answer. And the search for answers is a rocky road filled with highly contextual advices and blurry trajectories. There has to be a better way to plan smartly one of the most important aspect of one's life: work.
 
-\
+<br />
+<br />
 
-
-# Solution
+## Solution
 The core problem sparked Aron and Mark's interest and they begin to work on a solution which would enable to plan one's course of work in short and mid term. *How can I get into a different IT career road as the one I am currently on? How can I get into the IT job of my dreams if I am currently doing IT x? How can I smartly plan ahead my future and escape the IT path that I am currently on if it's dying?* These questions has fused us to be a "A compass in the world of work".
 
 [Credo](https://docs.google.com/document/d/12CB_e5r6hUbVsgMyE_-K_08FdyrmzJawYyKaXsVSdwI/edit?usp=sharing)
@@ -61,13 +69,12 @@ The core problem sparked Aron and Mark's interest and they begin to work on a so
 <br />
 <br />
 
-
-# Initial Research
+## Initial Research
 The initial research has proved that there is indeed a need for a solution. There are currently platforms, individuals and companies who serve the career counsellors role but **none of the players provide you with a view on the current IT market conditions in terms of a transparent future planning.**
 
 [High level competitor analysis_HU](https://docs.google.com/document/d/1acBPj1dUh2ZHESCyJr_CG767Te2dy7fh3eT6Y7XVj2o/edit?usp=sharing)
 
-# Market Research
+## Market Research
 The market research has strengthened our previous view. There is a strong need for transparent future planning and not just in IT... As a secondary school director in one of our expert interviews had stated:
 
 *"We [teachers] are hesitant to give advice for young folks. The work they will do maybe don’t even exist today."*
@@ -91,7 +98,7 @@ Most of the experts interviewed confirmed that there is a strong need for career
 
 [Market research_FULL_HU](https://docs.google.com/document/d/1JPzQn8KolTrF_hTX1oqt7hnRoWmElPXv0pOBCi6qPfw/edit?usp=sharing)
 
-# Pretotyping
+## Pretotyping
 So we set out to build a pretotype to test our assumptions.
 
 ### High Level Sitemap
@@ -122,7 +129,7 @@ Karriverzum’s first look. Click or tap anywhere on the page and the available 
 ### Testing
 The initial testing showed very promising results. We tested the pretotype with a handful of IT students and Levente - currently doing his master in computer programming - has liked the idea (and the challenge) so much that he joined us on board as our developer. 🙌
 
-# Product Design
+## Product Design
 So we started doing the “real thing”!
 
 ### Design Inspiration
