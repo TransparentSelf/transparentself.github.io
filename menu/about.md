@@ -4,7 +4,7 @@ title: About
 permalink: /about
 ---
 
-Online Product lover looking for the next challenge.
+Online Product and Brand lover looking for the next challenge.
 
 ![UXUICV2022](/assets/img/UXUICV2022.png)
 
