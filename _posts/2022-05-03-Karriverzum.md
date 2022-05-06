@@ -53,23 +53,23 @@ Our first big hairy audacious goal is to provide **a live career map for IT univ
 <br />
 
 ## Core Problem
-Let's say you are planning to leave human resources and start a career in Product Design. This may certainly sounds like an extreme case but let's play with the thought that this is really happening...
+Let's imagine you are planning to leave human resources and start a career in Product Design. This may certainly sounds like an extreme case but for a second let's play with the thought that this is really happening...
 
 > "Millions of people have left their jobs in search of more fulfilling roles with greater flexibility – it’s been called the Great Reshuffle." [World Economic Forum](https://www.weforum.org/agenda/2022/02/great-reshuffle-jobs-market-resignation/)
 
-To begin with your transition into Product Design, UX Design seems a great place to start. 
+To begin with your transition into Product Design, UX Design seems like a great place to start. 
 
-*I overheard my friend saying that Product Designers always start as UX Designers and she is certainly a credible source, isn't she?).*
+*I overheard my friend Jill saying that Product Designers always starts as UX Designers and she is certainly a credible source, isn't she?*
 
 So now you have some more questions to answer...
 
 *What is UX Design exactly? And where should I begin my journey with that?* 
 
-You google your questions and you realize that even though the field of UX Design is kind of new, but somehow it has already expanded into this vast place with myriad of opportunities. So you ask yourself even more questions.
+You google your questions and you realize that even though the field of UX Design is kind of new, but somehow it has already expanded into this vast place with myriad of opportunities. So you ask yourself even more questions...
 
 *Should I work on information architecture? Or should I do UI Design? Or maybe should I become a UX expert, working solely with analytics?* 
 
-These are *some* of the questions you have to answer to *start* walking on your journey. And we still haven't even talked about the education you might need to kickstart your career, nor about your portfolio, nor even touched long term career planning. 
+These are *some* of the questions you have to answer to *start* walking on your journey. And we still haven't even talked about the education you might need to kickstart your career, nor about your portfolio, nor even touched long term career planning just to name a few emerging problems you will need to deal with.
 
 There has to be a better way to plan smartly one of the most important aspect of one's life: work.
 
@@ -88,7 +88,7 @@ These are some important questions that has fused us to be a:
 
 > "A compass in the world of work"
 
-➡️ Check out our [Credo_HU](https://docs.google.com/document/d/12CB_e5r6hUbVsgMyE_-K_08FdyrmzJawYyKaXsVSdwI/edit?usp=sharing)
+Check out our 👉 [Credo_HU](https://docs.google.com/document/d/12CB_e5r6hUbVsgMyE_-K_08FdyrmzJawYyKaXsVSdwI/edit?usp=sharing)
 
 <br />
 
@@ -97,7 +97,7 @@ The initial research has proved that there is indeed a need for an IT career pla
 
 There are currently platforms, individuals and companies who serve the career counsellors role but **none of the players provide you with a view on the current IT market conditions in terms of a transparent future planning.**
 
-➡️ Check out our [High level competitor analysis_HU](https://docs.google.com/document/d/1acBPj1dUh2ZHESCyJr_CG767Te2dy7fh3eT6Y7XVj2o/edit?usp=sharing)
+Check out our 👉 [High level competitor analysis_HU](https://docs.google.com/document/d/1acBPj1dUh2ZHESCyJr_CG767Te2dy7fh3eT6Y7XVj2o/edit?usp=sharing)
 
 <br />
 
@@ -108,7 +108,7 @@ As a secondary school director in one of our expert interviews had promptly stat
 
 This sums up perfectly the current fast changing market conditions. For the full market research please browse the LINK below.
 
-➡️ Check out our [Market research_FULL_HU](https://docs.google.com/document/d/1JPzQn8KolTrF_hTX1oqt7hnRoWmElPXv0pOBCi6qPfw/edit?usp=sharing)
+Check out our 👉 [Market research_FULL_HU](https://docs.google.com/document/d/1JPzQn8KolTrF_hTX1oqt7hnRoWmElPXv0pOBCi6qPfw/edit?usp=sharing)
 
 <br />
 
@@ -119,7 +119,7 @@ As much smarter people have said before us, Gen Z is the latest generation to "j
 
 In addition, our research typically relies on Western research, so Gen Z in Hungary may be more nuanced than this. 
 
-**That said, we can say that Generation Z:**
+**That said, we can say that Generation Z is:**
 * Hypercognitive
 * Hybrid
 * Generalist
@@ -133,12 +133,12 @@ In addition, our research typically relies on Western research, so Gen Z in Hung
 3. Work-life balance
 4. More human (e.g.: the job role is focusing on human interactions)
 
-**And their biggest challenges:**
+**And their biggest challenges are:**
 * What career are you interested in?
 * How can I tell what I'm good at or bad at?
 * Anxiety
 
-➡️ Check out our [Market research_FULL_HU](https://docs.google.com/document/d/1JPzQn8KolTrF_hTX1oqt7hnRoWmElPXv0pOBCi6qPfw/edit?usp=sharing)
+Check out our 👉 [Market research_FULL_HU](https://docs.google.com/document/d/1JPzQn8KolTrF_hTX1oqt7hnRoWmElPXv0pOBCi6qPfw/edit?usp=sharing)
 
 <br />
 
@@ -153,7 +153,7 @@ Another typical strategy is to study "even further" as a problem-solving tool to
 
 Students may need support in choosing a career. The question remains whether the information on available careers can sufficiently meet this need.
 
-➡️ Check out our [User interviews_HU](https://docs.google.com/document/d/1AVnQ09_-wY-R9FBRh0-oFRI1Ams8g4Dpig2bvfza4TQ/edit?usp=sharing)
+Check out our 👉 [User interviews_HU](https://docs.google.com/document/d/1AVnQ09_-wY-R9FBRh0-oFRI1Ams8g4Dpig2bvfza4TQ/edit?usp=sharing)
 
 <br />
 
@@ -175,53 +175,58 @@ Where parents are not aware of the labour market, students mostly turn to their 
 * What are students' feelings about career choices?
 * How do students feel about career guidance in the classical sense? (Tens of thousands of forints to sit down with a professional for a few sessions)
 
-➡️ Check out our [Market research_FULL_HU](https://docs.google.com/document/d/1JPzQn8KolTrF_hTX1oqt7hnRoWmElPXv0pOBCi6qPfw/edit?usp=sharing)
+Check out our 👉 [Market research_FULL_HU](https://docs.google.com/document/d/1JPzQn8KolTrF_hTX1oqt7hnRoWmElPXv0pOBCi6qPfw/edit?usp=sharing)
 
 <br />
 
 ## Pretotyping
-We follow an agile methodology during the creation process (which often clashes with our inherent need for perfection), and so in a hindsight we follow the following "recipe": 
+We follow an agile methodology during the creation process (which often clashes with our team's need for perfection), and so in a hindsight we follow the following "recipe": 
 
 > research, create, analyze, iterate and repeat
 
 <br />
 
 ### High Level Sitemap
-The first version of Karriverzum's sitemap.
-[High level sitemap_HU](https://docs.google.com/document/d/1_GW0IX4p2mo66iBw9duW8yPAi8yErm21-2MgmNNQiu0/edit?usp=sharing)
+The first version of Karriverzum's sitemap:
+![Sitemap](/assets/img/Sitemap.png)
+
+Check out the detailed 1st verstion 👉 [High level sitemap doc_HU](https://docs.google.com/document/d/1_GW0IX4p2mo66iBw9duW8yPAi8yErm21-2MgmNNQiu0/edit?usp=sharing)
 
 <br />
 
 ### Sketches
-The first sketches of the landing page. 
+The first sketch of the landing page. 
 
 ![LandingPageSketch](/assets/img/LandingPageSketch.png)
 
 <br />
 
 ### Design and Branding
-*How should the product feel?*
+The first two touch points for the feeling and the world we want to create are two very specific game element.
 
-The first two touch points were skill development in Diablo II:
+Skill development in Diablo II (famously known as "skill tree"):
 
 ![DiabloIISkillTree](/assets/img/DiabloIISkillTree.jpeg)
 
-and a game where a spark shows the way in the dark:
+and Unravel Two's spark (a spark which shows the way in the dark):
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j2TmLrTl6gs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+![Unravelspark](/assets/img/Unravelspark.jpeg)
 
 <br />
 <br />
 
 ### Pretotype
-Karriverzum’s first look. Click or tap anywhere on the page and the available interactions will light up in a flash:
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2F5eGASZat7L6T7sNebvcwrk%2FPrototype%3Fpage-id%3D0%253A1%26node-id%3D563%253A333%26viewport%3D241%252C48%252C0.03%26scaling%3Dscale-down%26starting-point-node-id%3D563%253A455" allowfullscreen></iframe>
+Long and behold Karriverzum’s first look (without design just plain old stockphotos so you won't get terrified of wireframes):
+
+![LandingPagePreto](/assets/img/LandingPagePreto.png)
+
+Or check out the interactive version in Figma here 👉 [Figma Pretotype_HU](https://www.figma.com/proto/5eGASZat7L6T7sNebvcwrk/Prototype?page-id=0%3A1&node-id=563%3A333&viewport=241%2C48%2C0.21&scaling=scale-down&starting-point-node-id=563%3A455) NOTE: if you click or tap anywhere on the page the interactions will light up.
 
 <br />
 <br />
 
 ### Testing
-The initial testing showed very promising results. We tested the pretotype with a handful of IT students and Levente - currently doing his master in computer programming - has liked the idea (and the challenge) so much that he joined us on board as our developer. 🙌
+We tested the pretotype with a handful of IT students and Levente - currently doing his master in computer programming - has liked the idea (and the challenge) so much that he joined us on board as our developer. 🙌
 
 <br />
 
@@ -236,19 +241,19 @@ So we started doing the “real thing”!
 <br />
 
 ### Moodboard
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FmH9IM90EP7LDlWJnctfAmy%2FDesign%3Fnode-id%3D238%253A78" allowfullscreen></iframe>
+![Moodboard](/assets/img/Moodboard.png)
 
 <br />
 <br />
 
 ### Design Mockup
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FmH9IM90EP7LDlWJnctfAmy%2FDesign%3Fnode-id%3D206%253A469" allowfullscreen></iframe>
+![LandingPageMockup](/assets/img/LandingPageMockup.png)
 
 <br />
 <br />
 
 ### Sitemap
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2F5eGASZat7L6T7sNebvcwrk%2FPrototype%3Fnode-id%3D652%253A379" allowfullscreen></iframe>
+![Sitemap1](/assets/img/Sitemap1.png)
 
 <br />
 <br />
