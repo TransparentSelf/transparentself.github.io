@@ -46,47 +46,80 @@ Levente Lang - Full Stack Developer
 <br />
 
 ## Executive Summary
-A web platform for IT career planning currently under development. Our first big hairy audacious goal is to provide **a live career map for IT university students and young IT professionals** where they can plan ahead their future in the world of IT.
+A web platform for IT career planning currently under development. 
+
+Our first big hairy audacious goal is to provide **a live career map for IT university students and young IT professionals** where they can plan ahead their future in the world of IT.
 
 <br />
 
 ## Core Problem
-Allow me to get personal here and share with you the story where this whole project began... 
+Let's say you are planning to leave human resources and start a career in Product Design. This may certainly sounds like an extreme case but let's play with the thought that this is really happening...
 
-I woke up one day and realized that I was just going in the wrong direction all along. 
-One of our founder Aron is just going through his 3rd big career shift at the moment. He is 27 years old. This maybe an extreme case but nonetheless this rapid career change is now more prevalent then ever. Aron was planning to leave human resources and start a career in product design. To begin with that ux design certainly seemed a great place to start. *But what is indeed UX Design? And where should an individual begin his journey with that?* Googling these questions only get you so far. The field of UX Design is not just new, but also a vast place with myriad of opportunities. *Should one work on information architecture? Or should one do UI Design? Or maybe should one become a UX expert, working solely with analytics?* These were some of the questions our founder had to answer. And the search for answers is a rocky road filled with highly contextual advices and blurry trajectories. There has to be a better way to plan smartly one of the most important aspect of one's life: work.
+> "Millions of people have left their jobs in search of more fulfilling roles with greater flexibility – it’s been called the Great Reshuffle." [World Economic Forum](https://www.weforum.org/agenda/2022/02/great-reshuffle-jobs-market-resignation/)
+
+To begin with your transition into Product Design, UX Design seems a great place to start. 
+
+*I overheard my friend saying that Product Designers always start as UX Designers and she is certainly a credible source, isn't she?).*
+
+So now you have some more questions to answer...
+
+*What is UX Design exactly? And where should I begin my journey with that?* 
+
+You google your questions and you realize that even though the field of UX Design is kind of new, but somehow it has already expanded into this vast place with myriad of opportunities. So you ask yourself even more questions.
+
+*Should I work on information architecture? Or should I do UI Design? Or maybe should I become a UX expert, working solely with analytics?* 
+
+These are *some* of the questions you have to answer to *start* walking on your journey. And we still haven't even talked about the education you might need to kickstart your career, nor about your portfolio, nor even touched long term career planning. 
+
+There has to be a better way to plan smartly one of the most important aspect of one's life: work.
 
 <br />
 
 ## Solution
-The core problem sparked Aron and Mark's interest and they begin to work on a solution which would enable to plan one's course of work in short and mid term. *How can I get into a different IT career road as the one I am currently on? How can I get into the IT job of my dreams if I am currently doing IT x? How can I smartly plan ahead my future and escape the IT path that I am currently on if it's dying?* These questions has fused us to be a "A compass in the world of work".
+The core problem sparked our interest and we begin to work on a solution which would enable to plan one's course of work in short and mid term. 
 
-[Credo](https://docs.google.com/document/d/12CB_e5r6hUbVsgMyE_-K_08FdyrmzJawYyKaXsVSdwI/edit?usp=sharing)
+*How can I get into a different IT career road as the one I am currently on?*
+
+*How can I get into the IT job of my dreams if I am currently doing IT x?*
+
+*How can I smartly plan ahead my future and escape the IT path that I am currently on if it's dying?* 
+
+These are some important questions that has fused us to be a: 
+
+> "A compass in the world of work"
+
+➡️ Check out our [Credo_HU](https://docs.google.com/document/d/12CB_e5r6hUbVsgMyE_-K_08FdyrmzJawYyKaXsVSdwI/edit?usp=sharing)
 
 <br />
 
 ## Initial Research
-The initial research has proved that there is indeed a need for an IT career planning solution. There are currently platforms, individuals and companies who serve the career counsellors role but **none of the players provide you with a view on the current IT market conditions in terms of a transparent future planning.**
+The initial research has proved that there is indeed a need for an IT career planning solution. 
 
-[High level competitor analysis_HU](https://docs.google.com/document/d/1acBPj1dUh2ZHESCyJr_CG767Te2dy7fh3eT6Y7XVj2o/edit?usp=sharing)
+There are currently platforms, individuals and companies who serve the career counsellors role but **none of the players provide you with a view on the current IT market conditions in terms of a transparent future planning.**
+
+➡️ Check out our [High level competitor analysis_HU](https://docs.google.com/document/d/1acBPj1dUh2ZHESCyJr_CG767Te2dy7fh3eT6Y7XVj2o/edit?usp=sharing)
 
 <br />
 
 ## Market Research
 As a secondary school director in one of our expert interviews had promptly stated:
 
-*"In most cases, students will go on to do jobs that do not even exist today."*
+> "In most cases, students will go on to do jobs that do not even exist today."
 
 This sums up perfectly the current fast changing market conditions. For the full market research please browse the LINK below.
 
-[Market research_FULL_HU](https://docs.google.com/document/d/1JPzQn8KolTrF_hTX1oqt7hnRoWmElPXv0pOBCi6qPfw/edit?usp=sharing)
+➡️ Check out our [Market research_FULL_HU](https://docs.google.com/document/d/1JPzQn8KolTrF_hTX1oqt7hnRoWmElPXv0pOBCi6qPfw/edit?usp=sharing)
 
 <br />
 
 ### Secondary Research
-As much smarter people have said before us, Gen Z is the latest generation to "just barely" enter the workforce. So there is limited research available on this cohort, and of limited quality, since "All research around Gen Z currently focuses on students, making it challenging to predict their job-related behavior." [Emerald inside](https://www.emerald.com/insight/content/doi/10.1108/EJTD-07-2020-0124/full/html). In addition, our research typically relies on Western research, so Gen Z in Hungary may be more nuanced than this. 
+As much smarter people have said before us, Gen Z is the latest generation to "just barely" enter the workforce. So there is limited research available on this cohort, and of limited quality. 
 
-That said, we can say that Generation Z: 
+> "All research around Gen Z currently focuses on students, making it challenging to predict their job-related behavior." [Emerald inside](https://www.emerald.com/insight/content/doi/10.1108/EJTD-07-2020-0124/full/html). 
+
+In addition, our research typically relies on Western research, so Gen Z in Hungary may be more nuanced than this. 
+
+**That said, we can say that Generation Z:**
 * Hypercognitive
 * Hybrid
 * Generalist
@@ -94,39 +127,42 @@ That said, we can say that Generation Z:
 * Independent
 * And most importantly **career-oriented** (success-oriented)
 
-In order of importance to them in terms of career choice:
+**In order of importance to them in terms of career choice:**
 1. Money
 2. Purpose
 3. Work-life balance
 4. More human (e.g.: the job role is focusing on human interactions)
 
-And their biggest challenges:
+**And their biggest challenges:**
 * What career are you interested in?
 * How can I tell what I'm good at or bad at?
 * Anxiety
 
-[Market research_FULL_HU](https://docs.google.com/document/d/1JPzQn8KolTrF_hTX1oqt7hnRoWmElPXv0pOBCi6qPfw/edit?usp=sharing)
+➡️ Check out our [Market research_FULL_HU](https://docs.google.com/document/d/1JPzQn8KolTrF_hTX1oqt7hnRoWmElPXv0pOBCi6qPfw/edit?usp=sharing)
 
 <br />
 
 ### User Interviews
+**Among the interviewed subjects (university students), there is a typical uncertainty surrounding the choice of "profession”.** 
 
-Results
-**Among the interviewed subjects (university students), there is a typical uncertainty surrounding the choice of "profession”.** There is a demand for a medium-term commitment (3-5 years) to a career choice, but in the absence of an adequate toolbox, most students plan for the short term (1-2 years). The strategy of choosing a university that broadly covers their interests, but without a concrete idea of where they want to "end up", was typical of the subjects. The choice of career path is perhaps more crystallised towards the end of university. Another typical strategy is to study "even further" as a problem-solving tool to answer the career choice. E.g.: after a bachelor's degree, to do a Master's degree or even to start a completely different bachelor's degree. The experience gained can thus be increased within the academy.
+There is a demand for a medium-term commitment (3-5 years) to a career choice, but in the absence of an adequate toolbox, most students plan for the short term (1-2 years). 
 
-Conclusions
+The strategy of choosing a university that broadly covers their interests, but without a concrete idea of where they want to "end up", was typical of the subjects. The choice of career path is perhaps more crystallised towards the end of university. 
+
+Another typical strategy is to study "even further" as a problem-solving tool to answer the career choice. E.g.: after a bachelor's degree, to do a Master's degree or even to start a completely different bachelor's degree. The experience gained can thus be increased within the academy.
+
 Students may need support in choosing a career. The question remains whether the information on available careers can sufficiently meet this need.
 
-[User interviews_HU](https://docs.google.com/document/d/1AVnQ09_-wY-R9FBRh0-oFRI1Ams8g4Dpig2bvfza4TQ/edit?usp=sharing)
+➡️ Check out our [User interviews_HU](https://docs.google.com/document/d/1AVnQ09_-wY-R9FBRh0-oFRI1Ams8g4Dpig2bvfza4TQ/edit?usp=sharing)
 
 <br />
 
 ### Expert Interviews
-**The consensus among respondents is that career guidance in the traditional sense is bleeding from several wounds. Unpreparedness in public education, lack of interest on the part of students and under-informed guidance counsellors all contribute to poor choices.**
+**The consensus among respondents is that career guidance in the traditional sense is bleeding from several wounds. Unpreparedness in public education, lack of interest on the part of students and under-informed guidance counsellors all contribute to poor choices career choices.**
 
 Where parents are not aware of the labour market, students mostly turn to their teachers, who are often unable to provide adequate assistance, as few of them are qualified to do so. Therefore, they often start with the fact that what the child is good at is what the child should do, which is clearly wrong.
 
-Emerging questions after the interviews:
+**Emerging questions after the interviews:**
 * Is there a need today for young people to be helped in their career choices?
     * For those who do have a need, what tools do they use to find their way and how do they relate to them (e.g.: is felvi.hu satisfying)?
         * Which of the commonly used tools are effective?
@@ -139,23 +175,24 @@ Emerging questions after the interviews:
 * What are students' feelings about career choices?
 * How do students feel about career guidance in the classical sense? (Tens of thousands of forints to sit down with a professional for a few sessions)
 
-[Market research_FULL_HU](https://docs.google.com/document/d/1JPzQn8KolTrF_hTX1oqt7hnRoWmElPXv0pOBCi6qPfw/edit?usp=sharing)
+➡️ Check out our [Market research_FULL_HU](https://docs.google.com/document/d/1JPzQn8KolTrF_hTX1oqt7hnRoWmElPXv0pOBCi6qPfw/edit?usp=sharing)
 
 <br />
 
 ## Pretotyping
-We follow an agile methodology during the creation process (which often clashes with our inherent need for perfection), and so in a hindsight we follow the following "recipe": research, create, analyze, iterate and repeat.
+We follow an agile methodology during the creation process (which often clashes with our inherent need for perfection), and so in a hindsight we follow the following "recipe": 
+
+> research, create, analyze, iterate and repeat
 
 <br />
 
 ### High Level Sitemap
+The first version of Karriverzum's sitemap.
 [High level sitemap_HU](https://docs.google.com/document/d/1_GW0IX4p2mo66iBw9duW8yPAi8yErm21-2MgmNNQiu0/edit?usp=sharing)
 
 <br />
 
 ### Sketches
-*What should be the layout of the website?*
-
 The first sketches of the landing page. 
 
 ![LandingPageSketch](/assets/img/LandingPageSketch.png)
