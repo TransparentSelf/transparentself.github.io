@@ -33,7 +33,6 @@ Levente Lang - Full Stack Developer
     - [Expert Interviews](https://aronuxui.github.io/Karriverzum#expert-interviews)
 8. [Pretotyping](https://aronuxui.github.io/Karriverzum#pretotyping)
     - [High Level Sitemap](https://aronuxui.github.io/Karriverzum#high-level-sitemap)
-    - [Sketches](https://aronuxui.github.io/Karriverzum#sketches)
     - [Design and Branding](https://aronuxui.github.io/Karriverzum#design-and-branding)
     - [Pretotype](https://aronuxui.github.io/Karriverzum#pretotype)
     - [Testing](https://aronuxui.github.io/Karriverzum#sitemap)
@@ -88,7 +87,7 @@ These are some important questions that has fused us to be a:
 
 > "A compass in the world of work"
 
-Check out our 👉 [Credo_HU](https://docs.google.com/document/d/12CB_e5r6hUbVsgMyE_-K_08FdyrmzJawYyKaXsVSdwI/edit?usp=sharing)
+Check out our ➡️ [Credo_HU](https://docs.google.com/document/d/12CB_e5r6hUbVsgMyE_-K_08FdyrmzJawYyKaXsVSdwI/edit?usp=sharing)
 
 <br />
 
@@ -97,7 +96,7 @@ The initial research has proved that there is indeed a need for an IT career pla
 
 There are currently platforms, individuals and companies who serve the career counsellors role but **none of the players provide you with a view on the current IT market conditions in terms of a transparent future planning.**
 
-Check out our 👉 [High level competitor analysis_HU](https://docs.google.com/document/d/1acBPj1dUh2ZHESCyJr_CG767Te2dy7fh3eT6Y7XVj2o/edit?usp=sharing)
+Check out our ➡️ [High level competitor analysis_HU](https://docs.google.com/document/d/1acBPj1dUh2ZHESCyJr_CG767Te2dy7fh3eT6Y7XVj2o/edit?usp=sharing)
 
 <br />
 
@@ -108,7 +107,7 @@ As a secondary school director in one of our expert interviews had promptly stat
 
 This sums up perfectly the current fast changing market conditions. For the full market research please browse the LINK below.
 
-Check out our 👉 [Market research_FULL_HU](https://docs.google.com/document/d/1JPzQn8KolTrF_hTX1oqt7hnRoWmElPXv0pOBCi6qPfw/edit?usp=sharing)
+Check out our ➡️ [Market research_FULL_HU](https://docs.google.com/document/d/1JPzQn8KolTrF_hTX1oqt7hnRoWmElPXv0pOBCi6qPfw/edit?usp=sharing)
 
 <br />
 
@@ -138,7 +137,7 @@ In addition, our research typically relies on Western research, so Gen Z in Hung
 * How can I tell what I'm good at or bad at?
 * Anxiety
 
-Check out our 👉 [Market research_FULL_HU](https://docs.google.com/document/d/1JPzQn8KolTrF_hTX1oqt7hnRoWmElPXv0pOBCi6qPfw/edit?usp=sharing)
+Check out our ➡️ [Market research_FULL_HU](https://docs.google.com/document/d/1JPzQn8KolTrF_hTX1oqt7hnRoWmElPXv0pOBCi6qPfw/edit?usp=sharing)
 
 <br />
 
@@ -153,7 +152,7 @@ Another typical strategy is to study "even further" as a problem-solving tool to
 
 Students may need support in choosing a career. The question remains whether the information on available careers can sufficiently meet this need.
 
-Check out our 👉 [User interviews_HU](https://docs.google.com/document/d/1AVnQ09_-wY-R9FBRh0-oFRI1Ams8g4Dpig2bvfza4TQ/edit?usp=sharing)
+Check out our ➡️ [User interviews_HU](https://docs.google.com/document/d/1AVnQ09_-wY-R9FBRh0-oFRI1Ams8g4Dpig2bvfza4TQ/edit?usp=sharing)
 
 <br />
 
@@ -175,7 +174,7 @@ Where parents are not aware of the labour market, students mostly turn to their 
 * What are students' feelings about career choices?
 * How do students feel about career guidance in the classical sense? (Tens of thousands of forints to sit down with a professional for a few sessions)
 
-Check out our 👉 [Market research_FULL_HU](https://docs.google.com/document/d/1JPzQn8KolTrF_hTX1oqt7hnRoWmElPXv0pOBCi6qPfw/edit?usp=sharing)
+Check out our ➡️ [Market research_FULL_HU](https://docs.google.com/document/d/1JPzQn8KolTrF_hTX1oqt7hnRoWmElPXv0pOBCi6qPfw/edit?usp=sharing)
 
 <br />
 
@@ -190,14 +189,7 @@ We follow an agile methodology during the creation process (which often clashes 
 The first version of Karriverzum's sitemap:
 ![Sitemap](/assets/img/Sitemap.png)
 
-Check out the detailed 1st verstion 👉 [High level sitemap doc_HU](https://docs.google.com/document/d/1_GW0IX4p2mo66iBw9duW8yPAi8yErm21-2MgmNNQiu0/edit?usp=sharing)
-
-<br />
-
-### Sketches
-The first sketch of the landing page. 
-
-![LandingPageSketch](/assets/img/LandingPageSketch.png)
+Check out the detailed 1st verstion ➡️ [High level sitemap doc_HU](https://docs.google.com/document/d/1_GW0IX4p2mo66iBw9duW8yPAi8yErm21-2MgmNNQiu0/edit?usp=sharing)
 
 <br />
 
@@ -220,7 +212,7 @@ Long and behold Karriverzum’s first look (without design just plain old stockp
 
 ![LandingPagePreto](/assets/img/LandingPagePreto.png)
 
-**Or check out the interactive version in Figma here** 👉 [Figma Pretotype_HU](https://www.figma.com/proto/5eGASZat7L6T7sNebvcwrk/Prototype?page-id=0%3A1&node-id=563%3A333&viewport=241%2C48%2C0.21&scaling=scale-down&starting-point-node-id=563%3A455) NOTE: if you click or tap anywhere on the page the interactions will light up.
+**Or check out the complete interactive experience in Figma here** ➡️ [Figma Pretotype_HU](https://www.figma.com/proto/5eGASZat7L6T7sNebvcwrk/Prototype?page-id=0%3A1&node-id=563%3A333&viewport=241%2C48%2C0.21&scaling=scale-down&starting-point-node-id=563%3A455) ⬅️ NOTE: if you click or tap anywhere on the page the interactions will light up❗
 
 <br />
 <br />
