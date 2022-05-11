@@ -212,7 +212,11 @@ Long and behold Karriverzum’s first look (without design just plain old stockp
 
 ![LandingPagePreto](/assets/img/LandingPagePreto.png)
 
-**Or check out the complete interactive experience in Figma here** ➡️ [Figma Pretotype_HU](https://www.figma.com/proto/5eGASZat7L6T7sNebvcwrk/Prototype?page-id=0%3A1&node-id=563%3A333&viewport=241%2C48%2C0.21&scaling=scale-down&starting-point-node-id=563%3A455) ⬅️ NOTE: if you click or tap anywhere on the page the interactions will light up❗
+**Or check out the complete interactive experience in Figma** 
+
+➡️ [Figma Pretotype_HU](https://www.figma.com/proto/5eGASZat7L6T7sNebvcwrk/Prototype?page-id=0%3A1&node-id=563%3A333&viewport=241%2C48%2C0.21&scaling=scale-down&starting-point-node-id=563%3A455) ⬅️ 
+
+NOTE: if you click or tap anywhere on the page the interactions will light up❗
 
 <br />
 <br />
