@@ -47,18 +47,18 @@ Levente Lang - Full Stack Developer
 ## Executive Summary
 A web platform for IT career planning currently under development. 
 
-Our first big hairy audacious goal is to provide **a live career map for IT university students and young IT professionals** where they can plan ahead their future in the world of IT.
+Our first big hairy audacious goal is to provide **a live career map for IT university students and young IT professionals** where they are able to plan ahead their future in the world of IT.
 
 <br />
 
 ## Core Problem
-Let's imagine you are planning to leave human resources and start a career in Product Design. This may certainly sounds like an extreme case but for a second let's play with the thought that this is really happening...
+Let's imagine you are planning to leave human resources and start a career in Product Design. This may certainly sound like an extreme case but for a second let's play with the thought that this is really happening...
 
 > "Millions of people have left their jobs in search of more fulfilling roles with greater flexibility – it’s been called the Great Reshuffle." [World Economic Forum](https://www.weforum.org/agenda/2022/02/great-reshuffle-jobs-market-resignation/)
 
 To begin with your transition into Product Design, UX Design seems like a great place to start. 
 
-*I overheard my friend Jill saying that Product Designers always starts as UX Designers and she is certainly a credible source, isn't she?*
+*I overheard my friend Jill saying that Product Designers always start as UX Designers and she is certainly a credible source, isn't she?*
 
 So now you have some more questions to answer...
 
@@ -68,9 +68,9 @@ You google your questions and you realize that even though the field of UX Desig
 
 *Should I work on information architecture? Or should I do UI Design? Or maybe should I become a UX expert, working solely with analytics?* 
 
-These are *some* of the questions you have to answer to *start* walking on your journey. And we still haven't even talked about the education you might need to kickstart your career, nor about your portfolio, nor even touched long term career planning just to name a few emerging problems you will need to deal with.
+These are *some* of the questions you have to answer to *start* walking on your journey. And we still haven't even talked about the education you might need to kickstart your career, neither about your portfolio, nor even touched long term career planning just to name a few emerging problems you will need to deal with.
 
-There has to be a better way to plan smartly one of the most important aspect of one's life: work.
+There has to be a better way to plan smartly one of the most important aspects of one's life: work.
 
 <br />
 
@@ -83,7 +83,7 @@ The core problem sparked our interest and we begin to work on a solution which w
 
 *How can I smartly plan ahead my future and escape the IT path that I am currently on if it's dying?* 
 
-These are some important questions that has fused us to be a: 
+These are some important questions that have fused us to be a: 
 
 > "A compass in the world of work"
 
@@ -132,7 +132,7 @@ In addition, our research typically relies on Western research, so Gen Z in Hung
 3. Work-life balance
 4. More human (e.g.: the job role is focusing on human interactions)
 
-**And their biggest challenges are:**
+**And their major challenges are:**
 * What career are you interested in?
 * How can I tell what I'm good at or bad at?
 * Anxiety
@@ -157,7 +157,7 @@ Check out our ➡️ [User interviews_HU](https://docs.google.com/document/d/1AV
 <br />
 
 ### Expert Interviews
-**The consensus among respondents is that career guidance in the traditional sense is bleeding from several wounds. Unpreparedness in public education, lack of interest on the part of students and under-informed guidance counsellors all contribute to poor choices career choices.**
+**The consensus among respondents is that career guidance in the traditional sense is bleeding from several wounds. Unpreparedness in public education, lack of interest on the part of students and under-informed guidance counsellors all contribute to poor career choices.**
 
 Where parents are not aware of the labour market, students mostly turn to their teachers, who are often unable to provide adequate assistance, as few of them are qualified to do so. Therefore, they often start with the fact that what the child is good at is what the child should do, which is clearly wrong.
 
@@ -170,9 +170,9 @@ Where parents are not aware of the labour market, students mostly turn to their 
 * How much demand is there for self-awareness tests (e.g. career guidance tests, personality tests)?
     * Is testing necessary to promote graduate students' career choices in a meaningful way? (testing could be e.g.: personality, IQ, soft skill, value, interest, etc.) - An important question is whether Karriverzum should be a browser interface to be explored or a more "directional" system.
 * What help do students get to make career choices in secondary schools?
-* Are people about to graduate interested in what the job market looks like, or are they just deciding where to go to school?
+* are people about to graduate paying attention to the fact what the labour market looks like, or are they just deciding where to go to school?
 * What are students' feelings about career choices?
-* How do students feel about career guidance in the classical sense? (Tens of thousands of forints to sit down with a professional for a few sessions)
+* How do students feel about career guidance in the classical sense? (tens of thousands of Hungarian forints to have some recruitment/career consultancy)
 
 Check out our ➡️ [Market research_FULL_HU](https://docs.google.com/document/d/1JPzQn8KolTrF_hTX1oqt7hnRoWmElPXv0pOBCi6qPfw/edit?usp=sharing)
 
