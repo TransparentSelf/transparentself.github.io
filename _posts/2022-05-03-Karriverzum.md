@@ -258,6 +258,8 @@ So we started doing the “real thing”!
 ### Wireframing
 ➡️ [Figma Wireframe_HU](https://www.figma.com/proto/fBw65tzQ9Ud9D3phEWx8ub/Wireframes%2BResource?page-id=30318%3A4439&node-id=30318%3A10592&viewport=1078%2C-208%2C0.19&scaling=scale-down&starting-point-node-id=30318%3A10592) ⬅️ 
 
+NOTE: if you click or tap anywhere on the page the available interactions will light up❗
+
 <br />
 
 ### Site Architecture
