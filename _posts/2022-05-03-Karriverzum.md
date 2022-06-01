@@ -41,6 +41,7 @@ Levente Lang - Full Stack Developer
     - [Moodboard](https://aronuxui.github.io/Karriverzum#moodboard)
     - [Design Mockup](https://aronuxui.github.io/Karriverzum#design-mockup)
     - [Sitemap](https://aronuxui.github.io/Karriverzum#Sitemap)
+    - [Wireframe](https://www.figma.com/proto/fBw65tzQ9Ud9D3phEWx8ub/Wireframes%2BResource?page-id=30318%3A4439&node-id=30318%3A10592&viewport=1078%2C-208%2C0.19&scaling=scale-down&starting-point-node-id=30318%3A10592)  
 
 <br />
 
@@ -254,17 +255,15 @@ So we started doing the “real thing”!
 <br />
 <br />
 
-### Site Architecture
-In progress...
-
-<br />
-
 ### Wireframing
-Soon.
+➡️ [Figma Wireframe_HU](https://www.figma.com/proto/fBw65tzQ9Ud9D3phEWx8ub/Wireframes%2BResource?page-id=30318%3A4439&node-id=30318%3A10592&viewport=1078%2C-208%2C0.19&scaling=scale-down&starting-point-node-id=30318%3A10592) ⬅️ 
 
 <br />
 
+### Site Architecture
+Soon...
 
+<br />
 
 
 
