@@ -41,7 +41,8 @@ Levente Lang - Full Stack Developer
     - [Moodboard](https://aronuxui.github.io/Karriverzum#moodboard)
     - [Design Mockup](https://aronuxui.github.io/Karriverzum#design-mockup)
     - [Sitemap](https://aronuxui.github.io/Karriverzum#sitemap)
-    - [Wireframe](https://aronuxui.github.io/Karriverzum#wireframe)  
+    - [Wireframe](https://aronuxui.github.io/Karriverzum#wireframe)
+    - [Design](https://aronuxui.github.io/Karriverzum#design)
 
 <br />
 
@@ -262,8 +263,8 @@ NOTE: if you click or tap anywhere on the page the available interactions will l
 
 <br />
 
-### Site Architecture
-Soon...
+### Design
+Work in progress...
 
 <br />
 
