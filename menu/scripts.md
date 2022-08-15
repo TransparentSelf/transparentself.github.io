@@ -1,5 +1,5 @@
 ---
 layout: archive
-title: Portfolio
-permalink: /portfolio
+title: Scripts
+permalink: /scripts
 ---
