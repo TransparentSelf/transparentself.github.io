@@ -8,7 +8,7 @@ author: "Aron"
 
 categories: journal
 
-tags: [documentation,sample]
+tags: [why,story,meaning]
 
 image: lostmeaning.png
 
