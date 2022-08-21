@@ -7,8 +7,8 @@ disqus:
 # google-ID: 'UA-112060364-1'
 
 menu:
-- {name: 'Scripts', url: 'scripts.html'}
-- {name: 'Roadmap', url: 'roadmap.html'}
+- {name: 'Journal', url: 'journal.html'}
+- {name: 'Goals', url: 'goals.html'}
 - {name: 'About', url: 'about.html'}
 - {name: 'Contact', url: 'contact.html'}
 
