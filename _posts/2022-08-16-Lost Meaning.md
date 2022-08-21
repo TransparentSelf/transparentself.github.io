@@ -14,7 +14,7 @@ image: lostmeaning.png
 
 ---
 
-› If we have our own why in life, we shall get along with almost any how. Man does not strive for pleasure; only the Englishman does. - Nietzsche
+› If we have our own why in life, we shall get along with almost any how... - Nietzsche
 
 It's really frightening how easy it is to lose our sense of why. 
 
