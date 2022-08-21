@@ -14,14 +14,14 @@ image: collectbeliefs.png
 
 ---
 
-If I would to collect my Beliefs, the guiding principles that I run on. The *scripts* shaping my perception, I would start with this; 
+If I were to collect my Beliefs, the guiding propositions about the universe that I believe to be true, I would start with this; 
 
-› "You can do it."
+> "No matter what you do, you can do it."
 
-I know, such a cliche... It is on most of the T-shirts and corny taglines. 
+I know, I know such a cliche... 
 
-But it is also what coaches shout at their coachee on the very last rep. When maybe they themselves would not even try to go for it.
+But it is also what coaches shout at their coachee when it comes to the very last rep.
 
-And I have this internal coach, shouting at me energetically: "You will do this."
+And I have this internal coach, poking at me energetically: "You will do this."
 
 Thanks mom.
