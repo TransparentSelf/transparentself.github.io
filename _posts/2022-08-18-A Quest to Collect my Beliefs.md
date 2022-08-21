@@ -24,4 +24,4 @@ But it is also what coaches shout at their coachee when it comes to the very las
 
 And I have this internal coach, poking at me energetically: "You will do this."
 
-Thanks mom.
+Thanks Mom.
