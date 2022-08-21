@@ -10,7 +10,7 @@ categories: journal
 
 tags: [belief,quest]
 
-image: belief1.png
+image: collectbeliefs.png
 
 ---
 
