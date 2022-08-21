@@ -10,7 +10,7 @@ categories: journal
 
 tags: [meaning, belief]
 
-image: lostmeaning2.png
+image: lostmeaningpt2.png
 
 ---
 
