@@ -1,5 +1,5 @@
 ---
 layout: archive
-title: Scripts
-permalink: /scripts
+title: Journal
+permalink: /journal
 ---
