@@ -4,7 +4,7 @@ title: About
 permalink: /about
 ---
 
-I wanted to keep this site as "lean" as possible, because the "meat" is the content. And the contents are the following:
+I want to keep this site as "lean" as possible, because the "meat" is the content. And the contents are the following:
 
 # Journal
 This is intended to be my journal. A platform to bring my meaningful thoughts and feelings to life.
