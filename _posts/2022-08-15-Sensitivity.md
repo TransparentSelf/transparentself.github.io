@@ -3,7 +3,7 @@ layout: post
 title: "Sensitive People are Wrong"
 author: "Aron"
 categories: journal
-tags: [belief,bigfive,hani,sensitivity]
+tags: [family,personality]
 image: sensitivity.png
 ---
 
