@@ -20,4 +20,4 @@ But this is a lie! Because if you look closely enough, meaning is everywhere... 
 
 You can race against yourself on the job, find a worthy ally, and a meaningful aim even in Hell, so may reach yet again Heaven.
 
-> "No tree can grow to heaven unless its roots reach down to hell." - Nietzsche
+> "But it is the same with man as with the tree. The more he seeks to rise into the height and light, the more vigorously do his roots struggle earthword, downword, into the dark, the deep - into evil." - Nietzsche
