@@ -10,7 +10,7 @@ categories: journal
 
 tags: [why,story,meaning]
 
-image: lostmeaning.png
+image: LostMeaning.png
 
 ---
 
