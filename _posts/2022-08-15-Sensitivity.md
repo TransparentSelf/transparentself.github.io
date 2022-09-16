@@ -4,7 +4,7 @@ title: "Sensitive People are Wrong"
 author: "Aron"
 categories: journal
 tags: [family,personality]
-image: sensitivity.png
+image: SensitivePeopleAreWrong.png
 ---
 
 I have always thought deep down that Sensitive people see the world wrong. 
