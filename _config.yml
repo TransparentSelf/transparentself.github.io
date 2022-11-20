@@ -20,8 +20,8 @@ permalink:           /:title
 plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-tag]
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
-title:		           'Aron Kovacs'
-description:	       'Transparent Self'
+title:		           'Arons Journal'
+description:	       'How Can I Better Express Myself'
 author:              'Aron'
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
